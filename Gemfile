@@ -63,3 +63,5 @@ group :test do
 end
 
 gem "byebug", "~> 11.1"
+
+gem "sidekiq", "~> 7.0"
