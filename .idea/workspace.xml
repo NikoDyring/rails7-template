@@ -5,8 +5,225 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de6ad799-63ca-4cca-a164-3c70db0f3bd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.rubocop.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/darwin-arm64/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/darwin-arm64/bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/darwin-arm64/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/stimulus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/stimulus.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/action.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/action_descriptor.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/action_event.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/application.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/binding.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/binding_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/blessing.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/class_map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/class_properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/constructor.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/context.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/data_map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/definition.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/dispatcher.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/error_handler.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/event_listener.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/guide.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/inheritable_statics.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/logger.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/outlet_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/outlet_properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/outlet_set.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/router.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/scope.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/scope_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/selectors.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/string_helpers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/target_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/target_properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/target_set.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/value_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/core/value_properties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/multimap/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/multimap/indexed_multimap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/multimap/multimap.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/multimap/set_operations.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/mutation-observers/attribute_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/mutation-observers/element_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/mutation-observers/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/mutation-observers/selector_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/mutation-observers/string_map_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/mutation-observers/token_list_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/mutation-observers/value_list_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/cases/application_test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/cases/controller_test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/cases/dom_test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/cases/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/cases/log_controller_test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/cases/observer_test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/cases/test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/controllers/class_controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/controllers/default_value_controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/controllers/log_controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/controllers/outlet_controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/controllers/target_controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/controllers/value_controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/fixtures/application_start/helpers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/fixtures/application_start/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/action_keyboard_filter_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/action_ordering_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/action_params_case_insensitive_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/action_params_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/action_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/action_timing_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/application_start_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/application_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/class_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/data_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/default_value_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/error_handler_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/es6_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/event_options_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/extending_application_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/legacy_target_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/lifecycle_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/loading_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/memory_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/outlet_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/string_helpers_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/target_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/core/value_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/mutation-observers/attribute_observer_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/mutation-observers/selector_observer_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/mutation-observers/token_list_observer_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/dist/types/tests/modules/mutation-observers/value_list_observer_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/stimulus/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/app/assets/javascripts/turbo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/app/javascript/turbo/cable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/app/javascript/turbo/cable_stream_source_element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/app/javascript/turbo/fetch_requests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/app/javascript/turbo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/app/javascript/turbo/snakeize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo-rails/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/turbo.es2017-esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/turbo.es2017-umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/bardo.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/cache.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/error_renderer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/form_submission.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/head_snapshot.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/history.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/navigator.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/page_renderer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/page_snapshot.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/page_view.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/preloader.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/progress_bar.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/snapshot_cache.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/drive/visit.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/frames/frame_controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/frames/frame_redirector.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/frames/frame_renderer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/frames/frame_view.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/frames/link_interceptor.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/native/adapter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/native/browser_adapter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/renderer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/session.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/snapshot.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/streams/stream_actions.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/streams/stream_message.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/streams/stream_message_renderer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/url.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/core/view.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/elements/frame_element.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/elements/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/elements/stream_element.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/elements/stream_source_element.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/http/fetch_request.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/http/fetch_response.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/http/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/appearance_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/cache_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/form_link_click_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/form_submit_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/link_click_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/page_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/scroll_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/observers/stream_observer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/polyfills/custom-elements-native-shim.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/polyfills/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/polyfills/submit-event.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/script_warning.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/async_script_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/autofocus_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/cache_observer_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/drive_disabled_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/drive_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/form_mode_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/form_submission_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/frame_navigation_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/frame_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/import_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/loading_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/navigation_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/pausable_rendering_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/pausable_requests_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/preloader_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/rendering_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/scroll_restoration_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/stream_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/functional/visit_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/helpers/dom_test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/helpers/intern_test_case.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/helpers/page.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/integration/ujs_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/server.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/unit/deprecated_adapter_support_test.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/unit/export_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/unit/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/tests/unit/stream_element_tests.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/dist/types/util.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hotwired/turbo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/app/assets/javascripts/action_cable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/app/assets/javascripts/actioncable.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/app/assets/javascripts/actioncable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/adapters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/connection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/connection_monitor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/index_with_name_deprecation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/internal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/subscription.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/subscription_guarantor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/src/subscriptions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/install.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,23 +242,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ndj/Repos/Personal/rails7-template",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ruby.rails.projectView.checked": "true",
-    "ruby.structure.view.model.defaults.configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ndj/Repos/Personal/rails7-template&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Rails.rails7-template">
     <configuration name="rails7-template" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="rails7-template" />
@@ -127,7 +344,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677458452480</updated>
       <workItem from="1677458453496" duration="1933000" />
-      <workItem from="1684924249458" duration="1631000" />
+      <workItem from="1684924249458" duration="1648000" />
+      <workItem from="1684935621378" duration="29000" />
     </task>
     <servers />
   </component>
